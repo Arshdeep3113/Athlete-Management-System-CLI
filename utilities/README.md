@@ -1,5 +1,5 @@
-**utils.py
-****Utility functions for:**
+**utils.py**
+**Utility functions for:**
 - Parsing and loading athlete records from file
 - Saving back to disk
 - Aggregating statistics by class (counts, averages)
